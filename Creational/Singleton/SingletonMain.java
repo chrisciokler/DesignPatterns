@@ -1,7 +1,7 @@
 package Singleton;
 
 /*
- * The Singleton pattern is use to allow access to an object without having to create a new instance 
+ * The Singleton pattern is used to allow access to an object without having to create a new instance 
  * for every access.
  * 
  * is very useful when a lot of users had to access the same piece of information, avoiding a new 
